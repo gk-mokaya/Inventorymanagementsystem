@@ -4,22 +4,12 @@
 </div>
 
 # Django-inventory-management
+
+## Author: [Mokaya Kevin](https://github.com/gk-mokaya) | kevinmokaya001@gmail.com | +254 797 252 133
+
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 [![Python Version](https://img.shields.io/badge/Python-3.12-green)](https://www.python.org/downloads/)
-
-## Table of Contents
-- [Django-inventory-management](#django-inventory-management)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-    - [Clone the Repository](#clone-the-repository)
-    - [With Docker](#with-docker)
-    - [Without Docker](#without-docker)
-      - [On Linux](#on-linux)
-      - [On Windows](#on-windows)
-  - [Screenshots](#screenshots)
-  - [Authors](#authors)
 
 ## Description
 This Django application offers a solution for managing business operations with an emphasis on user experience and modern web technologies. It integrates Bootstrap for front-end design and employs Ajax for dynamic sales creation. The application features models for user profiles, vendors, customers, and transactions, including billing, invoicing, and inventory management.
@@ -138,6 +128,6 @@ cd sales-and-inventory-management
 
 ## Authors
 
-- [Mokaya Kevin](https://github.com/gk-mokaya)
+
 
                                            Copyright ©️ 2025 KSK Company Developers, Inc  All rights reserved
